@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PracticeProjects\\learningapp\\learningapp.csproj",
+      "projectUniqueName": "D:\\WorkingDir\\learningapp\\learningapp.csproj",
       "projectName": "learningapp",
-      "projectPath": "D:\\PracticeProjects\\learningapp\\learningapp.csproj",
+      "projectPath": "D:\\WorkingDir\\learningapp\\learningapp.csproj",
       "packagesPath": "C:\\Users\\faiz.shaikh\\.nuget\\packages\\",
-      "outputPath": "D:\\PracticeProjects\\learningapp\\obj\\",
+      "outputPath": "D:\\WorkingDir\\learningapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
